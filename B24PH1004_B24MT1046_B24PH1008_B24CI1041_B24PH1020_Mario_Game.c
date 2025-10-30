@@ -14,8 +14,8 @@
 #define flying_speed 5
 #define enemy_speed -8
 #define value_coin 10
-#define score_file "B24PH1004_B24MT1046_B24PH1008_B24CI1041_B24PH1020_Score.txt"
-#define number_of_score 3
+#define score_file "B24PH1004_B24MT1046_B24PH1008_B24CI1041_B24PH1021_Score.txt"
+#define number_of_score 50
 #define red_coin_number 1
 
 #define number_of_bullets 10  
